@@ -63,4 +63,3 @@ SmartCartório é um sistema web desenvolvido em Laravel para gestão cartorial 
 - Extração automática de dados
 - Validações automáticas
 - Alertas e notificações
-- .
